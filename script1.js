@@ -36,11 +36,11 @@ const questions = [
     ],
   },
   {
-    question: "Quais os cuidados pré Epilatorios devem ser feitos pelo profissional de Epilacao. E quais cuidados home care o cliente deve fazer em casa?",
+    question: "Quais os cuidados pré Epilatórios devem ser feitos pelo profissional de Epilação. E quais cuidados home care o cliente deve fazer em casa?",
     answers: [
-      { text: "Assepsia das maos da cliente, Assepsia da pele a ser epilada, Remoções dos resíduos de cera seguido de cosmetico calmante e o cliente deve fazer o home care esfoliando e hidratando a pele.", correct: true },
+      { text: "Assepsia das mãos da cliente, Assepsia da pele a ser epilada, Remoções dos resíduos de cera seguido de cosmético calmante e o cliente deve fazer o home care esfoliando e hidratando a pele.", correct: true },
       { text: "Assepsia da pele a ser epilada, Remoções dos resíduos de cera seguido de cosmético calmante e o cliente deve fazer o home care esfoliando e hidratando a pele.", correct: false },
-      { text: "Assepsia das maos da cliente, Assepsia da pele aser epilada, Remoções dos resíduos de cera seguido de cosmético calmante eo cliente deve fazer o home care esfoliando e hidratando a pele 1diaantes da Epilação.", correct: false },
+      { text: "Assepsia das mãos da cliente, Assepsia da pele aser epilada, Remoções dos resíduos de cera seguido de cosmético calmante eo cliente deve fazer o home care esfoliando e hidratando a pele 1 dia antes da Epilação.", correct: false },
       //{ text: "56 metros quadrados", correct: false },
     ],
   },
@@ -63,7 +63,7 @@ const questions = [
     ],
   },
   {
-    question: "A estrutura da pele é composta por:",
+    question: "A estrutura do pelo é composta por:",
     answers: [
       { text: "Raiz e Caule", correct: false },
       { text: "Raiz e Bulbo", correct: false },
@@ -72,7 +72,7 @@ const questions = [
     ],
   },
   {
-    question: "Quais sdo os tipos de Epilação de Virilha?",
+    question: "Quais os os tipos de Epilação de Virilha?",
     answers: [
       { text: "Total, bigode de Hitler e Simples", correct: false },
       { text: "Completa, Cavada e Simples", correct: true },
